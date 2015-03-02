@@ -1,0 +1,39 @@
+unit uLogin;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TgLogin = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    Edit1: TEdit;
+    Edit2: TEdit;
+    Button1: TButton;
+    procedure Edit1Change(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  gLogin: TgLogin;
+
+implementation
+
+{$R *.dfm}
+
+procedure TgLogin.Edit1Change(Sender: TObject);
+begin
+  if not (Edit1.Text='') or (Edit2.Text='') then begin
+    Button1.Enabled:=True
+  end else begin
+    Button1.Enabled:=False;
+  end;
+end;
+
+end.

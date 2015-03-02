@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.397,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.437,=C:\Users\User\Documents\Embarcadero\Studio\Projects\SAS\ABOUT.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.438,C:\Users\User\Documents\Embarcadero\Studio\Projects\uDash.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.102,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.438,C:\Users\User\Documents\Embarcadero\Studio\Projects\uDash.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.585,C:\Users\User\Documents\Embarcadero\Studio\Projects\uLogin.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.585,C:\Users\User\Documents\Embarcadero\Studio\Projects\uLogin.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.055,C:\Users\User\Documents\Embarcadero\Studio\Projects\SAS.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
